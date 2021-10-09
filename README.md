@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello! 👋
+
+My name is Perry, and I'm a student at the University of Michigan. I've worked a lot with the Java, C#, C++, and more recently, C programming languages.
+
+Most of my current work on Github takes place in private repositories, but I'm trying to get into open source contribution and will hopefully soon have commits to show for it. In the meantime, though, you can find out more about me [on my website](https://perrymacmurray.com).
 
 <!--
 **perrymacmurray/perrymacmurray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
