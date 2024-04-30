@@ -1,8 +1,10 @@
 ### Hello! 👋
 
-My name is Perry, and I'm a student at the University of Michigan. I've worked a lot with the Java, C#, C++, and more recently, C programming languages.
+My name is Perry. I graduated from the University of Michigan in 2023, and now work on compiler design at Qualcomm in Austin, TX. It shouldn't be surprising to hear, then, that I'm interested in low-level programming and architecture.
 
-Most of my current work on Github takes place in private repositories, but I'm trying to get into open source contribution and will hopefully soon have commits to show for it. In the meantime, though, you can find out more about me [on my website](https://perrymacmurray.com).
+Other than work, I play a lot of Minecraft (I have for a log time) and have developed some simple mods with Forge. I have also worked pretty extensively on programs for use with [OpenComputers](https://github.com/MightyPirates/OpenComputers).
+
+More information on me is available on my website, [perrymacmurray.com](https://perrymacmurray.com).
 
 <!--
 **perrymacmurray/perrymacmurray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
