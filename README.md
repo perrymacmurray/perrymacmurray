@@ -1,10 +1,4 @@
-### Hello! 👋
-
-My name is Perry. I graduated from the University of Michigan in 2023, and now work on compiler design at Qualcomm in Austin, TX. It shouldn't be surprising to hear, then, that I'm interested in low-level programming and architecture.
-
-Other than work, I play a lot of Minecraft (I have for a log time) and have developed some simple mods with Forge. I have also worked pretty extensively on programs for use with [OpenComputers](https://github.com/MightyPirates/OpenComputers).
-
-More information on me is available on my website, [perrymacmurray.com](https://perrymacmurray.com).
+[perrymacmurray.com](https://perrymacmurray.com).
 
 <!--
 **perrymacmurray/perrymacmurray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
